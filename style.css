@@ -54,10 +54,8 @@ body {background-color: snow;
   /* For a screen < 540px, this CSS will be read */
   .container {
     width: 300px;
+    }
   }
-  }
-
-}
 
 .img-circle {
     border-radius: 50%;
